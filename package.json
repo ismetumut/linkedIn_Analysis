@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-daily-connection-tracker",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "@sendgrid/mail": "^7.0.0",
+    "csv-parse": "^5.0.0",
+    "formidable": "^3.0.0"
+  }
+}
